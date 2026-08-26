@@ -8,3 +8,4 @@ if number%divisible==0:
 else:
     print("The number is not divisble.")
 
+print(number/divisible);
