@@ -47,4 +47,3 @@ marks.remove(89)
 # marks.pop() : Remove element from end
 marks.pop()
 
-
