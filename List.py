@@ -11,4 +11,4 @@ print(marks)
 print(marks[0])
 print(marks[1])
 
-# List Slicing :- Similar to string slicing
+
