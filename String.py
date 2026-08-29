@@ -35,3 +35,24 @@ str.count("am") #count the occurrence of substring in string.
 
 
 
+
+
+
+
+number1=input()
+number2=input()
+sum=number1+number2
+print(type())
+
+
+
+
+
+
+
+
+
+
+
+
+
