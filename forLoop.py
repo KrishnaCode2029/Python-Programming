@@ -45,3 +45,5 @@ str="krishna Govardhane"
 
 for char in str:
   print(char)
+
+# Learned for loop in depth
